@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Ola Electric",
+      "points": [
+        [
+          35.709677419354854,
+          77.9247311827957
+        ],
+        [
+          220.2258064516129,
+          113.83870967741935
+        ]
+      ],
+      "group_id": 35,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Ola Electric_35.png",
+  "imageData": "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",
+  "imageHeight": 198,
+  "imageWidth": 254
+}

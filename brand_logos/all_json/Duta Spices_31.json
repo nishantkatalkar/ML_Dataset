@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Duta Spices",
+      "points": [
+        [
+          88.65435356200527,
+          47.58839050131927
+        ],
+        [
+          211.87335092348286,
+          125.16094986807389
+        ]
+      ],
+      "group_id": 32,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Duta Spices_31.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAmVBMVEX////tHCTsAAD+7+vwTEj8//j5++3sAAj3qqPtFB7sABD96+b///32op31+N/+/e395eD4vLb719P7++TtGRH5w77tEBv3rqr+9vL84N36y8ftABP2nZn+/fL0hYHvQTzzenX4tbHvOzbydXHuMCnyamXybWfxW1HvNy3xXVrwU1DxX1vvRkLzgHr83NT95dz1lJD60Mz0josMIgVfAAAEDElEQVR4nO3ca2OaSBiG4eGlZmTELbA6gBwi8ZBqNFX//49bBsFoSkwxShZ8rk9FCZQ7oGgYGAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA/40o6tQmir57a7+k02FMr4361Xz3Fl8uYtaMajTzWWNrRcwmqdVDciIpyW5qLbPjU02pNJqNXp2YNPI75ndv90UiNq9rv6Ku/zz9ZTsk5w3dtR7YoKZWxsJ/NG1vmYTBoKGx/mF1HYUimS/1sT8eWETmz+/e7ovUF4sPX5Y91yLeQ6xPyfFw9UpOGCcCsT5FTjc9zVp7XGtBrOC251uGoL71+tuWRgtiBd3RC3HjRqUCmvZDIk48nWp+LNFlzHN/kLh2rzQUrUKfsb7IH2lHrJTuPhO/2vFoBJx+xUMvW3T7YqU8e8JJfDmY2qOeYls/rKuVsRS/P0tfX4JLD0kpiJabkXeyrtbGUix791j5xMJQffnMff3zs3KrYynD/et9oL6J4iIoOzYNw5AyCATPvq56XBhaEJeuq/WxmK7e67lt9pyRG8bzLJ0ciIz6DB7I6Wo5G+82/WToWOlxl6QnnVbpotofi3WFilVMqT58WEyRRt77+d00Vq90SXcQS305+EEsM42lv5//rmNZiFW4eSxnMyr+2cpY/e3xC9GXYrkDosPPtjJWegIgw8McVWMl4igWGUc/28pYaRCDDnN8Euvk3dC0tslMHsfS7iCW9rex5GS9Xk+s/AGdsg/hiPX23HEsLT13D8jJH9D3C0Ost+dOYmUbj1g5xDpArAoQqwLEqgCxKrh1rFRSTCDW+Vh+6nCOj1jnY51ALMRCrFKIVQFiVYBYFSBWBWWxpteLFYbhpniypbGM653BC9HyP1hcM1brPxsi1geqxiL13DafQKzzsSZ8MFgVE4h1PtYJxEKsD5XF0gTR21UiiHVQFus5to8uCEWsg6qXHJ1ArPfOxGKI9Y7/caweYr2TcE0zVqUjwF/yK73Jzx+4+1grdTW3NFy952+Hidvf7OJ4PJ/NXp4HxVXxct1N7JHj937nsQ5XuN1XLG+Sb6HIhgRwLoKUVI6GqkjB90MG8nndrbXfFe8nljeKHy8bsKnKPk3CkcfvI5YTLokuHuiUMtRgJ639sbzhWF5tkObRVdDti9Vz013qmqOludzs3x3bFkvvrm4wTjqghRo50KZYLrOX1x8hvSdp6mZDphod6yH7QkYxFvJWY++zxXO5KNY0bei9aDpsV/y+b1jqdAVi19BYLDJlXfeEyklpNrQV65j6E0mjNpKedLOZ9xpj2f0R7cmP2kzs7I6MTWVGtf7nO1Fj96u9zsNX/Vvq558avFcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMD1/QfDFnF6jMYxOwAAAABJRU5ErkJggg==",
+  "imageHeight": 168,
+  "imageWidth": 300
+}

@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Ather Energy",
+      "points": [
+        [
+          84.50617283950618,
+          73.17283950617283
+        ],
+        [
+          120.80246913580247,
+          107.2469135802469
+        ]
+      ],
+      "group_id": 9,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Ather Energy_8.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAASIAAACuCAMAAAClZfCTAAAAeFBMVEUAAAD///8EBAT7+/vU1NStra35+fm8vLxubm7x8fEJCQkcHBzh4eH29vaysrLa2tp+fn6kpKTMzMzr6+vGxsaTk5Pl5eV1dXU0NDQYGBgvLy+dnZ2MjIwRERFKSkpXV1djY2NVVVU/Pz9NTU1gYGA7OzuCgoIkJCRJB0/VAAAEhElEQVR4nO3Ya3eiOhQG4CQIiHIPQkVAvFT//z+cnQsX7ZyeL6dH6XqfNasTJVqym+zswBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPxSm/MhL6WUZXE4b159M2+pWvHJKn317byfswpQsIoPWeavImrnH6++pTeTBpyXzdm+6hpJ8aoYEy+9qbey49zLVDyEigolojZzOG9efVtvQ7CU5sz16d2e5tX6Jffzjs4Rl92XVdUFXCIfWTmPemZCpMNkY9VTzp71ErOfj8RDQzz1+Q35rOLcHV/0eXEcRuVyXs07bjNfL0dame4gPuwZu8SxWZN1HPfq/8a3CvUF59j0PXwsNWAJL/dD+0RZOjDLS7B98DCNaLZxr9NXklkJ1TMWcx7rHhlVVBs9/wYFvTsWXI5//99G9V86cX4Y/7iZGsk4p3bc6R46cu7r5jxEVxsiwcYQraerqv+sJi0WWbZnPPgcX6Tqbz3G5ejwm21SAAo1RjPFbrGbUZgCtXruX2cRhchrqpTcVKlFIUp2u11W0udPS1xqOU+mF3cahmOnBFVHiV4oimCfVAVQ2b0bujach7bpDiE6jCEKZr9hpeYp0zsnT39qGD8psYvH0NOIX3Rb0MQJxytUXhYVd4LWvqYQlVvTdPWC2ojZLBq7MR0is3ZLFeHlzaJW2hlgbn2TTBlHraBy7EiTqG+DaR5QyMIpRF5OCjmFaHMpiiLTgRpmUec9bZELQSGy6bnO8qbV04h7J/NWxuXQj3appFUradjkHkM0PSMYFppOXTqVUYhKP459qVPZ8maRKO0s2oZmj7bZSA9lmEVCb2L+5dR4Drd107+FSG2O0VFdnu1ot0VWRkNKbnTlclSVJBVHna6Sp1R+dByP9jpnqgkeQ7S6nE6nzp8ttPZyPJqt0obI4eXzQXAhcpuSD3oca7ZZqdHo5LEtxx3NVXEzA41MafkYInf4jr/vaHl6C/n4ZUuT8UhvYFcVAHVwrUyomM4/qel0p0wbJmGYJJHNvU8heiodnahj7WbTtipfU4gyOqXwoTRYGKFuPdPNRjpJrxpu5Jl3Mu7Yp2wqHq19z7a+DxFVBxFxbHXtml6LfLwi1AiCWrfqzg750wSGps6wfYXqAZtOtGrnTlVjN9VF8wNI8ngASfZjiPb0JWW9wHQt1MLy/3opH8uYOpFhbXqzOJD6cWQVyOFjNynNMa+SgQpGGydWqKbjIZB687+WMlgvMERMH77Sh81YEL3FjQf9e23O6KrTR23OonU9VtD1x958/qOmBrX2xnarP2I+Iehb6kUeY2kEEXe+JglK33KZzy5+giqFpmf5Qv+jVONc/6HQsw8gp2tCfLt8xqvfd3tr6tRRzB9UdznViemrbuctVXQ+9eLhjFm5tG3J/pU39IbqXG3RZULH80Q9+nIK5KEv1itnrGa8ol904vgx9Y5mEB0y/EbXQMusYODFxGx3fumNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAv8gfngDHe4KFERQAAAABJRU5ErkJggg==",
+  "imageHeight": 174,
+  "imageWidth": 290
+}

@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Wonder Cement",
+      "points": [
+        [
+          104.73544973544976,
+          41.420634920634924
+        ],
+        [
+          203.67724867724868,
+          123.69576719576717
+        ]
+      ],
+      "group_id": 34,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Wonder Cement_30.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAATYAAACjCAMAAAA3vsLfAAAAkFBMVEX4+Pj////5Bgf5AAD+5ub+7Oz7+/v7goL+6en7fHz/+/v7b2/8mZn/9fX6U1P/8PD8lZX8o6P9zc3+2Nj+09P7amr8n5/7d3f9xcX+4OD9tbX8qqr6Pz/5HB38i4v6KCj6TU39uLj6Wlr9r6/7YWH6PDz5ERL9t7f6RUX9vr/9xsf6LzD7hob6Xl75JSX6NjapuEczAAAEo0lEQVR4nO2d63KqMBRGq9tLpVgBrdcWrVZPbXvs+7/dARFNSLiYw2Um+davSsGZvSYheydBHh4AAAAAAAAAAAAAAAAAAAAAAAAAoBm9Xuu/6fWajqJWSjDGuGs6mnoo1Zkp5iqQZoC4aqSFNB1ZlVRnTWNvFXXQGE07asXWNPVWuTU9vVVvTcf7Wx3W9PNWQxcN0a2b1mNNt+ZWU2PTrbnVZU2v5lZbY9OrudVnTavmBm0q1NhHdeql0KZEndY06qXQpgS0KVGppaPjjqDtTnYU4kHbPQyfidrtNpGlobbK8o/jWVrozWWO6pKBVKVtFltr0zO0FWRxiqUF2trQVgyXbtYCb0NoK0AwFrRZqAtt+cyJtwZtRRgkrUFbPuxYAG1FcYWmBm25JMcCaCuCMBZAWwHEsQDaclmsU6QZoW28Wy5UrEnHAlO0DT/PM2Qfq8590iz5WGCKttdz9KG5N39S3NpXRlMzQNs7M20RMJtbgiEZfrY17bXxXe3cXZdDwVKSVbY07bVZYjUZsFk9ZmtzDNfWlef4RHs7a3S10lMPI7R10sIPzK39caq3YY43U7VF5g79tLTE2hN/qlHTlFnaIh2pDW7DjMFrrzXmxxajtbVpl6qt9RGv7lE//Ljlmp/J2oix5vkz/8h7e7pkyh7zCdoCIX/i87pRCUa8uP45W7mkeTNou1ibx6ctLnd8Iofz5hDZ8d8DaIsUXfOPyW2cpAHnzbrVYgZrYxIJomvuwZXt9NKSY642ej5OvyNHdLpuUnunxElybX1OG5Pv6a4tStIm27DNvV57n1C20146S2Kuto/o4MIeLK9n2JJF0DW/XdJ0bZLbli8bM+ggqbmg7cZMPtIyoyy00VNSxUv6BMkXtKVp22ZldcvEydB24TW7YJ1CWxTrjNVgfefNjvxAm6BtlDfvnWydJml7TOuk3UOuteCCLbRx2jriOqgw8R0ee00r5Y3UNpYYepnYkqO3gsFcbXG6O5H4cVu3aTeuDXagLTroSdaco9nx7pvE2xjaQo4Sa/FkuCXmcvK1BJO0nSeOphIx89sVfyX/Djswvy1Cc22Jacq1a4tJbuLx0L6YmdDJd/hd9kZpkycZydmOaYHkxCxtEoiEPTTvOZvboI1dibkhDrXQlrAm3ekmSeCgjYn+0BWdheSVrEZro1PqftScDW4ma6N1xi5e6zfzUr21PWbETr/Zu8b3Wdcyt0QNtY0yVgs+M6W1MifNdX9WXqzNL3HzM+RyxEIrvvrEnKWjtp+0hdDkwpQUScEQXe5rrm0kffaYtrLtChI6G/n17FiiizbuN47GQjlJtLnj4StvmyxIKVHFNh1taXBxjwbE8e3f+ZjkyN3y39Dn85amoy2NZOCdydf8uHQdx155BXtn8hu83dR27OlqPhGqsaajLQ0lM8o0HW1pQJsS0KYEfndXCWhTo05tTcdaItCmBN6XoEZ92pqOtFTwLhg16tLWdJwlg/dcqVGPtqajLB9YUwPWlMD7SdXA23AVqdJa07FVCaypgffKK1KBOP2lnSnVnCHOLvRKcNczSxkAAAAAAAAAAAAAAAAAAAAAAABgBP8AWntYzFOZJGsAAAAASUVORK5CYII=",
+  "imageHeight": 163,
+  "imageWidth": 310
+}

@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Citi Bank",
+      "points": [
+        [
+          130.27371273712737,
+          59.44579945799458
+        ],
+        [
+          193.68834688346885,
+          107.41327913279135
+        ]
+      ],
+      "group_id": 37,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Citi Bank_37.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAA6lBMVEX///////0AAGQAAFkAAF0AAGgAAGZ4ep/4AAAsK3Lu7e+1tcr///z//v/5///7AAAAAGAAAFX1///zAADu7vMAAEsvL3jX2eTz3Nz5tLX3mJX8fH39b3L6dnT8j4v5rKf7zsv2+PD52NP6BxD4V1b5SEX3o5v77ezzZVz6JBv9MCb6Tk379/X85eT1u7D8bWrl5+isq8f6ICkqK2fe3+ePjrWcnba/v9L4xMBbXId/fq2ko8T3OzchH3H4OzOrqbvLzNzh5PNHR4A8OYBubpcAAEU4OnWBhKJubpRdXpNSU4u5vNM3Om0NDWWmV61bAAAD5UlEQVR4nO3abVPbRhSG4V1pJYy9K6+MQE0o4SWhpVRpcWtsKCQQoHHTlP//d3pWwsYEkwJfINP7gjFj2cNonjn7qlUKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAz5MOnvomvlFaOWtJ73Fc1gSXiSe+lW+NU1Zi++7Fy9Xv116tb2xmmdWKEO8r09nW6uvulVbrzQspQVrxvUidZRvbrW6rOyVvftChKCffwF2yKvtxpxVqTn5/2t193a2DbO1uXPWB1jGcfEXvYKnO7uf1rUpntnr7y6/hbbf1KnOh/ixzmbu4zGXrrWDtrRSbDiOGqF6GUlza6bnM2r1+ae1T3+jz5LKQXrf121amXKi1098LiUpn1U64/Kbn1GC/PxwR3zza9Q6km1vayaSdamfLw9y3Q0sNsYbucK2n+4M/To5ovfNVx8fbx6s9HUZXrd75JC7qqJzODt5vb78/yEbiiOqbT4eurifFp8I8ZSWN4nZTac6Fy/JBdnI0rIhvSodSqzOS5urCsGrr0pOVx0qUSnzWSphhFLEhXVkHq82nvufnREqpOO2cjApV59Qu2sWmtbYo3GKU5h+KIoweVq4WlWvKjq5vSuqtc7ZsvPf5+SjsUF3k8XJHqfLPPE5SKb/YLBfyvUv5u9fsX5HelLODjyZKI5F4cyEtc0Ei62g1iOWq/CTytpDEFqPEtJkwf8GWsfchOWMkQX/mpvHlxvg0kg98LtWnie8WabiFZJb4aNzvjN+Z1Hy6qj7pDhfG43dpYsbj8UJF9c2jnfpL2q3Zr0cEPYzPnZvEF4JaiZK4qiMjvjm03YsjKb0wYjht1Sh0ck3jlbnM1cTFNqMF8d3idN+kyeIklGb6N4lPqSa+q4+I7xanL6TpnkwzscT3MB+jKB7czIT47kuHgAzxPZJV5zK2Dm4uI4jvvpz+JH1fZ5qJpu97CK2GJo3OJplo4nsYPchD+dWPILW2g/bMvK/pGWXeZ8PKmPjmOpQlm+mHwpNZszm8GV/YsCqssrYivnmajZXUnHXKsnOYJ/FYzcb3t2S7ULRHZ4r45tOf87Ar5eM4TWT5m8qa10/jGxrvI+PjC/q+O2h7mpgo8mkakvpHmuqCj5r4rKuMRBrSpPrmC8822vs+Nl6WH9EwnL+4yPPlvmqOtJSXsff5ZSHDR73bbN1//8v/lXqbwJ32x+PhqAoHMOygLMtJmdni87B/Wj8pkqtlRXxfCpO9Jix5dfVp3OsjpTrMWnT95M3OXsesW0eYryfS1y8zJ9TwNXpmFaev46P2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBR/gUMBUMbGW3VtQAAAABJRU5ErkJggg==",
+  "imageHeight": 159,
+  "imageWidth": 318
+}

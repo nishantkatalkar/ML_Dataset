@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Ather Energy",
+      "points": [
+        [
+          68.0040733197556,
+          66.78207739307535
+        ],
+        [
+          116.0692464358452,
+          112.81059063136456
+        ]
+      ],
+      "group_id": 16,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Ather Energy_16.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAMAAAAKE/YAAAAAclBMVEX///8AAAD8/Pzs7OxZWVn09PQ2NjYICAgbGxvo6Oi7u7vh4eGoqKggICASEhI5OTnW1tYYGBh2dna/v7+BgYGwsLDKysqMjIw+Pj4oKChlZWUwMDCTk5NJSUnQ0NCkpKRubm5hYWFNTU1YWFiSkpKcnJxjyNyZAAAC8klEQVR4nO3Zx5aqQBAGYAmigiJZgjio4/u/4u1qwgBi691Aec7/rYawqCnK6rRaAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAB8CV1fOoL/ons/wT0tCqvMT6GxdDQf8SJro/3ZmvF66ZDeScx+xLXizDrsXdWE7Fu3a26WWXNZxEtH9pqdyRCtqK3ktfdzd+W9imuyTzKvN3vYNpxoS7dTZ6Go1IJXheBU9CTzZo/oPRlzPt3hYkp2xi/XZ4r59OqpV1Ctc+vZCdXz+fVzh6K+zhfPJ9YUU6R6wzmIN/ZzxfORiNqGerJhi29x4FQgjmjG/uh3FueVPbgRvPsYMwueClrPtXGMhigQfzdrXCqG6GjZcMiL6/E77N+jBvM7a2Aq++do8jrosn+P/rcjm1m2qWnuqKIrbSLV4ubGmzEulfVhlFLB1iZSTTcfMwamcpkYC/W0ibrfQQyfzwCzH8UmtalO+0Us/pPjjIGpnCZLtZxI9VWML0wm1qJLu89DXTiRanqTSacW7W3bz5/jyas21b0ZthjtN0wmqMOgk9LdZNQjJlLNKOjBR7/Ua0LqJrenVDMqj8EPsYmUBpukCdrqUm3y+SHue9mkVizR1LlNddtAdItPy7v05nOG2ws6abY92oc78TBfKMgxGsbT5u92JKzr5V5ftLPWmNEwTqXaFXUzElby4iJT3S0ProwmTLKou/n+XuTdbTeU6CJrZ3q0vuEzNaWJ8rYbE43Q/uvFhh127SJSL9jnRsut4N1LciHJpEsTimdzefOSyWxhK7+8pR42HhqzLYR6s+aq+pGFLrvNmnocUZR1suW3LdZsQOavKsSm0Z3dBmSz1Zt6U490ud3OcKu3ido9PSc7kcsBlpvq7fFFdh70Yj2sz7uYHl90B0X+/XExRCfR144dFM1chMk0ekJ3JKf52fFYHNorzkdyq688/CRfeMxM6gN9qziW+e+XHOh32MycAQAAAAAAAAAAAAAAAAAAAAAAAAAAAADU/gECkxz3BJpvCAAAAABJRU5ErkJggg==",
+  "imageHeight": 180,
+  "imageWidth": 180
+}

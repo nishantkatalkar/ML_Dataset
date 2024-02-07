@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Mahindra Electric",
+      "points": [
+        [
+          91.50000000000001,
+          62.473684210526315
+        ],
+        [
+          169.18421052631578,
+          130.89473684210526
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Mahindra Electric_2.png",
+  "imageData": "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",
+  "imageHeight": 194,
+  "imageWidth": 259
+}

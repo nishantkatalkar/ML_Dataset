@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Bajaj Energy",
+      "points": [
+        [
+          103.38014527845037,
+          72.27723970944311
+        ],
+        [
+          181.83050847457628,
+          109.56537530266345
+        ]
+      ],
+      "group_id": 7,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Bajaj Energy_21.png",
+  "imageData": "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",
+  "imageHeight": 177,
+  "imageWidth": 284
+}

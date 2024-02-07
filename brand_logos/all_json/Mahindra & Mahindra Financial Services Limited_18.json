@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "L&T Defence",
+      "points": [
+        [
+          0.0677233429394839,
+          59.580691642651296
+        ],
+        [
+          300.0,
+          99.76300621871681
+        ]
+      ],
+      "group_id": 19,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Mahindra & Mahindra Financial Services Limited_18.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAS0AAACnCAMAAABzYfrWAAAAtFBMVEX////jFzZrbnBmaWviACr98vTjCDJjZmju7u7iACziBS785eiLjY/hAB//+/ziACf39/fnQ1nranpdYWPLzc2kpqfFxsa/wMGZm5ztfYr519vvjJjS09ORlJX2vsTkJkHyp6/nOlLlLkl+gYPpY3PkGzx7fn+trq/pV2r1t7/hABzxl6L50NXsdYP62t7uh5Lg4eHoTGDhABP97O5WWVzyoav2w8ngAADqXG7l5ubwkp22uLnPbHcOAAAGvElEQVR4nO2Y6XLiOBRGvRDLdjAGDMQk0KyBQEiHdDo9Ibz/e42uNstm6SxTPVNT3/mRMpZk2SfS1ZUcBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgf8PlaRpnmj1ThYvq3YZo95Genz/2tqGN4zS3u11objdVpaZ17ZRKzlRshnZZqR/T2nEmae0E6eTMd8+TWm39WL27+cGb1Q4kHmfEe14/vK+ups58Q7Z1ej+znzn/0p/0m81UpUHmZz113cuopK5+NUVD85MXZld0Ee5nnn5sfVfph+VF/63APUXt6fRrtyNeflO9u0lcN3DPjUmLKe+51n9fXU3d9zzLVod5fpdLyDwiG8hKA+axntXA81gofzVFPY9t5U/enJGtrc98T+P7Ybmfd9py16cHVzs+Zct13/nlZCv6hK26Yrar2PIWspJlqyktCCeOseWrwaVtLXgttiA8xq+W5X7qy6J/YSsWUy8SioKUUxMOk+uTr33aVtJ+55d/0tbM+lnY8vOFpx1ZtnrkY2b0cFuy4kA3J1s7LnuxlTX2/Ikz6scfHuufbMUP90SfFAWt1fjl/u0ptmxd2Mhbxpa6K2ffJomC1UEL06hcYNmyq/InNSq/32XriunBZdni9bPm0tdTkWwNlZDCFj1lrx9JY++8reSXvKbxlL6Iy2fL1k1gM7q3bDVasbx7Kz5789f8wllxN/201CaYCofOamLuRE9TV9m6bBUVo2nDuS81ve1bvk7bGtJ0ZJ2yLZqIM2fL9FQkW/WQ6cGlbO2tOOcsGGPN87a+WbbG4vIiMLbG61IwC9bjwtZDqu8mNNCux851a022am6l0YYXf1sXQTLZTPTYerUqJ5tSLfFka908Y8vJfTW4Cls0EfmoWeipKGw5XV8NLmWLxt5AP7J3dXX1m7F1ztb3NCbkP1q8/kTbelv9EAXiqyIaAo1+Egfc1qMQULRxI4pmrVh+fxDH6auJW41poCrHZObZjcr9uVZKcs4WjRmxLBa2eHVa/7gOPyxshb5aFo/Z0v180tbjHfFEtCb0uQGfLMJW/DCngtZELA8RfVOLjzVja9QSjMQ6Muelt8KK23p6unu9rNiKpvzu3QOfh3ev5f7ctFiaaa1aKnoVW2JwzWxboRptZipKW87Ql4NN2eIRT+cUdj8LhWeV/X4m2vQjy5ZZE+/JTcwlfadJq23FagY1xEKibQUjnb6XbMXzo1naS3poS6dBw6qtnQpIxlZPFhdTUdnaMjm4rLh1xJaV133EVkPDI096zNb3RNkS+ZaxpVOJt5ply9wt20q/Fa9k9SceWLHFJNmBLRpcFJCMLT6G5Kd21aqobOmKvcLWwUzk+dZMsfuArbeRxv3mrI7auv66rcTYWk1Nfy/HbC0oDhODA1uUOHE92pZITUUzPRW1rZ0vkrNBYatTtfW5uPWLVigZcpPxH7D1XIsD1V/6eMzWySjvyDFTN7bMRDRTUduiwcYj2jYzccvY6iz3y/DTtlZiMyP/13/ClpjVgejv9u2jtihyZVtta0hK5OZF7RWNLbEsDsJMZ6eFrWHGst3nbaUiY1Vx5B+wZbKnE7ZS0fJ03DpnS6ZSobQlJqIO1XJbZGw5S0rola2ByV6lYvaFsUW2Vrr2120FTzqEn7FljH7UlsjTe1JNhxVZwEJqKmzR/tq/kppC01ztuz+fy5MfdzpRTN2v2nKDWz7JptPpRCRpR225I9Nf8DFbMiBJW0PfSgxykaAWthyxrVSnE2Rutuxd7ffdhUzFqJ9OT2GtAO+LW3rT5n7J1kRtaYpnnYhbpr/gMDs9b4sGlydsFSsiIWebZYsHfnOWk1Mjn2clNGO9rFPKVFhm9TipxfFavWrM9xxrZSvl1z+4rcuaPFyNNHFtRLb4figxtvgGKErJFl3QRoVvgOJU27pJxE6Hm1/XKs+iPWBjRK+gJ/tztb8oso7Z6owtbFuZz7ri7JTpidPNREbZo4NR1i2qenRk2rQOTjuyokgseGj39VlgljuVs1PLVr/dbs838rpN19Lchbim11w93jxy+sQDp93m2xPnfs6Lx+oZl69UmXL5OTXjxWMqvlfF4scbXW1uqs+iE48H6xV4ynLQ37w4vF/muWXAGczqsz19bZ7rI5dwuex2u/nA2ef5cFtU5T9zp8n/mLM9XZHY7usiuC3qy63qp8A6DQQWzX/7BQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+g/wN3FS+RtpOJIMAAAAASUVORK5CYII=",
+  "imageHeight": 167,
+  "imageWidth": 301
+}

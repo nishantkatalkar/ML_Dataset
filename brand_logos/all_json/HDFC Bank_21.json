@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "HDFC Bank",
+      "points": [
+        [
+          81.94104803493448,
+          36.962882096069876
+        ],
+        [
+          168.62227074235807,
+          115.78384279475983
+        ]
+      ],
+      "group_id": 23,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "HDFC Bank_21.png",
+  "imageData": "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",
+  "imageHeight": 201,
+  "imageWidth": 251
+}

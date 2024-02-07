@@ -1,0 +1,44 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "HDFC Bank",
+      "points": [
+        [
+          97.7921348314607,
+          67.54494382022472
+        ],
+        [
+          132.62359550561797,
+          103.7247191011236
+        ]
+      ],
+      "group_id": 11,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "HDFC Bank",
+      "points": [
+        [
+          86.55617977528091,
+          105.07303370786516
+        ],
+        [
+          145.20786516853934,
+          115.41011235955057
+        ]
+      ],
+      "group_id": 12,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "HDFC Bank_10.png",
+  "imageData": "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",
+  "imageHeight": 207,
+  "imageWidth": 243
+}

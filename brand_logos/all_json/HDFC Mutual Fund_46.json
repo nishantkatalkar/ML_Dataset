@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "HDFC Mutual Fund",
+      "points": [
+        [
+          6.7542787286063515,
+          10.055012224938874
+        ],
+        [
+          216.04523227383862,
+          215.67848410757946
+        ]
+      ],
+      "group_id": 42,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "HDFC Mutual Fund_46.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAflBMVEX///8AAADtHCTsAAD0HSV8DxP4HSalpaXCwsIwMDC0FRvxHSVaCw6Ghob09PQsBQfjGyIiBAVyDRF+fn5TCQxmDA9FCAr/HidXV1esrKwfHx/JGB66FhyXEheEDxQyBggPAQJeCw65ublNCQuVEResFBomBAbPGB/dGiE8BwlusCsSAAACY0lEQVR4nO3da1PaQBSAYRMPWzW0QlSoFVC0Xvr//2DHgjMlCRs217Nn3vczZ3efQZGJGTg7IyIiIiIiovDO469OmMYeQoT6Q4hQfwgR6i9QKC6w7GsydLB50kYoeRLYw34/FzrYvFzaCCfB+612+7nrHizVTQYWJlfOujBZi3VhshHrws/ffePCZGpemCzksVOFr3GEyWLeocHfSMIBQ4hQfwgR6g8hQv0hRKg/hAj1149wfu3t8enw4Zdd9GtQ4cp/oX25PQTWbHpaF4MKr7LUl0wRIkSIECFChAgRIkSIECFChAgRIkSIEOHgwvXhWewJp+3uZI9AOCscxZzwoXgSa8KNK+5tTLgon8OY8EON8EcHPVccQ8p7jyLsq8nSiYiG19K+uv3s5beCv/j9puFdG0KECBEiRIjw9H7ef/N0Y0D43Xs0zVeiECJEiBAhQoQIESJEiBAhQoQIESJEiBAhQoQjCitu1fkvF7/wdeYtjV/YTwgRIkSIEKFO4eZpvuvtzaYwTbN9srUq/HK+DAAcVbgtrHrju3np1O6Ln082nrAETC5qljmtSy1CuS2taktYfgaNCeWuYlVLwuoLEoaEWdUzaElY+SNqSSibI6vaER57540QIUKECBEiRIgQIUKECBEiRIgQIUKECHf18x9STZ8aoSmECPWHEKH+ECLUH0KE+kOIUH8IEeovHmG+bjYXj/Bu+dpoLiKhuFWTuZiEqbw3mItKmGYf8+C5dsK8e8jR/n3pTzb7EzqXt7vP2w3X/qBN5xoKIwwhQv0hRKg/hAj1VyuMvxohERERERERVfUXBrLj0S/jX90AAAAASUVORK5CYII=",
+  "imageHeight": 225,
+  "imageWidth": 225
+}

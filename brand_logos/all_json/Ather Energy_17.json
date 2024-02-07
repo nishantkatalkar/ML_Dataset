@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Ather Energy",
+      "points": [
+        [
+          58.12025316455697,
+          57.40506329113924
+        ],
+        [
+          112.80379746835445,
+          109.30379746835443
+        ]
+      ],
+      "group_id": 18,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Ather Energy_17.png",
+  "imageData": "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",
+  "imageHeight": 170,
+  "imageWidth": 297
+}

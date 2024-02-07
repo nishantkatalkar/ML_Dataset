@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Royal Enfield",
+      "points": [
+        [
+          42.74609375,
+          71.640625
+        ],
+        [
+          231.02734375,
+          108.359375
+        ]
+      ],
+      "group_id": 28,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Royal Enfield_27.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAARkAAAC0CAMAAACXO6ihAAAAflBMVEUAAAD///8MDAzz8/MXFxfGxsbQ0ND39/dGRkYrKytzc3MdHR2lpaX6+vrp6em/v79NTU1VVVXa2tq5ubmAgIC0tLSQkJBubm5ERETPz8+vr6/X19chISGJiYnj4+NSUlKcnJyCgoI1NTVpaWmMjIxfX18yMjI8PDwnJyefn5/9DVm5AAAE1UlEQVR4nO3d2ZaiOhQGYCaNIoMC4kThVHbp+7/gIXvvQLCtVdXVDr3O+r+bYgzJTxLAm3I8uM0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4rCgTm7Qc36VEbzXopHcp8iXeXEt+lyITu8jqLkW+wsluhpvdo8iNXeLoHiW+xJTqX5wWOS28yeZRsS+mPyxyoAtSRWNfDo53qufzjSiQj2Zp3naacR7T1njejIUy9n3FfSlTvhrLllrOT5Xv++7BLpKS8c1aoY+WwJtjVeQ4vqFyKsyP35xKtRvXjqdX6BKhy1VRyXD36/Fp2DiZpVmKqTadhePU8peGiZ6JeGqa8fk7c1ann8wHHX2i5Ux3T3u4Zc7WjLludhrINfXsXdkj87nTeZcMVUJJMEkx3ft6IeTxluhjm7/n5k9qVzNs97b6yUjb6Lm34ozogGQ13CS+M6a9TXcYmo1+ItlFck3X3aw2iu7Ax1MyYV0ylMCG68JNpWjO1B7daSJ5eCnX6idfJjPhZBKzZybRrvWGsSRzlmRKvfHAEXIyNJh0IBe6cZPHpmHrkllzF6HhwfPmQi/mPB5qqqTuMkfp2yEd891kdOa9ZOa8e2x6FCWzk5OG/T4z1UuRjLRnaWfgrVxYzwWu7FS8TC057aTLNGu0YUiHfJaMOi7CfbletsnoKL5MppQibiXDi725/qE4mfdwbmqrrJauuFo0VWS+TBbNAdzHqWd/loyYdck0bwTXo2l8ncygvKS6L95MZmD3qscbWc2gt7LYGgrUhEIGmnSZhe4teXuDv5WM4kfv1k5G0uknY4q9mcyTh5OdDLWcHpiyk5rQ3MOAW1ZJuwtnplfplebTZLKsrv3mSaSTSeh4V22ukon+KBmaAYdPSUXjZI6UB721yETctXHbLFAf4ee0rvu+iE0f+2IG9jgZ6/PMJONndfxbMvNTWOrZ/2Yy81f0mQ+uoJ7fxla7fNN/KBmaMwurj+mp4tMZ2KxNuLjoOhl9cvBHM3BiTnsO89TmF191lrarSznir82VPqpLZmUlo1v/3WTaIfTjpzZ/+z7vO6x9nym5sU0lZjS0kiVPOfQV0CYTNH+3jaUv1eRkzp7jHQopsp9M5dbzt7a133lqBxNeuVD9yvlgo9/0JnTF/nfIQ03bm3Lhmu+axUMYLqUBPLlQMnqC3vMrW/egkI+sOI7bJ1o/GVYdzJfRTA64mYyqN1nS3CdaqfP1vv0RY8Fv3qXzNMeuj8osqXb0NhVSQ+STOjXjKpNbKecFzns3uFZSZP8d2Jtd6KMnkmgW5tWFd7d9tu4KktdNluWX3WWgZOVJqWj8qsLz2taX2qhElswzUkmNw7YXcYy5Pe+YXwT5qV2nUVlGedfgnePV3Fdca1zspCtYH9Wx47m39eezB5sEmvlQi/o1MX3Xq+ggz6naY+m04CznE/OvtVa/tUjl++34F581kWtWnnX9wPEmVjneuarG03C3invFvPRHZa9sb3L90zGdXOUyOP28PrO1qY9KX/7DaTDbl2UxC356vtdLJiv/9oeDSVOfd/1E+D/YFpd5mubr8i96CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPxb/gNviTxtx2Wc/gAAAABJRU5ErkJggg==",
+  "imageHeight": 180,
+  "imageWidth": 281
+}

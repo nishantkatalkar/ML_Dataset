@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "DBS Bank",
+      "points": [
+        [
+          65.53053435114502,
+          54.992366412213734
+        ],
+        [
+          121.51017811704833,
+          114.02544529262084
+        ]
+      ],
+      "group_id": 13,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DBS Bank_12.png",
+  "imageData": "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",
+  "imageHeight": 168,
+  "imageWidth": 299
+}

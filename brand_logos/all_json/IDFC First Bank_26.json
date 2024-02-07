@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "IDFC First Bank",
+      "points": [
+        [
+          88.4124087591241,
+          59.729927007299274
+        ],
+        [
+          125.09124087591242,
+          94.76642335766424
+        ]
+      ],
+      "group_id": 26,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IDFC First Bank_26.png",
+  "imageData": "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",
+  "imageHeight": 168,
+  "imageWidth": 300
+}

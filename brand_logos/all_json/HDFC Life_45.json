@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "HDFC Life",
+      "points": [
+        [
+          52.964547677261606,
+          52.10880195599022
+        ],
+        [
+          173.9914425427873,
+          173.6246943765281
+        ]
+      ],
+      "group_id": 39,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "HDFC Life_45.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAUVBMVEXw8/rtGySxEBbw+//z+/+/X2PuY2ntDxqwAAWuAADw+P/tAAjvrbTZrLLWNDvwGySrCA/uX2W6WV3VJCzfgonhk5nuiY/ufoXvsrnKen/Kh4x+qGg4AAAB+klEQVR4nO3d4U7bQBCFUUiAYAcoCVBo3/9BSwWidEksWfLOboZz3uDTnX9eyWdnAAAAAAAAAAAAAAAAIcZ1rDE88Gl3FWn3MzrxYv+wibTdraMLL4e7H+dxNlfxhderyMQ2hfeBiW0KV4ErtiqMS2xWGHaozQrDVmxYGJTYsjDmUFsWxqzYtjAisXFhwKE2LgxYsXlh9cT2hbUPtX1h7RV7KKyb2EVh1UPtorDqip0UVkzspbDeofZSWG/FfgprJXZUWOlQOyqstGJXhVUS+yqscah9FdZYsbfC5RO7K7y/22zn2ZxY4Wp4vJnl5Xk6scPC2/U4x/ple3KF877ZjjcKFS5NocKSQoXLU6iwpFDh8hQqLClUuDyFCksKFS5PocKSQoXLU6iwpFDh8hQqLClUuDyFCksKFS5P4XcoTP828dftPI+n9r50Ncw1/XC6w8LZpl/4Zyicfv6eo3AqMUnhxKEmKZxYMU3h0cQ8hccONU/hsRUzFR5OTFV48FBTFR5cMVnhgcRshV8PNVvh1xXzFZaJCQuLQ01YWKyYsvC/xJyFnw81Z+HnFbMW/ktMW/hxqGkLP1ZMXPiemLnw7VAzF76tmLvwb2LywtdDTV74umKDwv1wHWh4CP83wvh7fxlp/xT/C4+LWOGBAAAAAAAAAAAAAADAd/UHurFzlxLdVPAAAAAASUVORK5CYII=",
+  "imageHeight": 225,
+  "imageWidth": 225
+}

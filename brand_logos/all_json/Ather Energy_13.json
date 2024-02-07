@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Ather Energy",
+      "points": [
+        [
+          19.735234215885953,
+          63.319755600814666
+        ],
+        [
+          72.89205702647658,
+          117.08757637474542
+        ]
+      ],
+      "group_id": 13,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Ather Energy_13.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAMAAAAKE/YAAAAAZlBMVEX///81NTS6ubmamplOTk1SUlGIh4Zwb27+/f47Ozr09PQ+Pj16enlXV1ZCQkHf397DwsLu7e1ISEfNzc2ura2BgYDX1tako6P5+Pjn5+ePj469vLxpaWiVlJNeXVzExMOzsrFsa2qYas/WAAAEuklEQVR4nO2ZfZeCKhDGLZXQSvMlLXux/f5f8joICGqp95xtvec+v/1jAxUfhmEY0HEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgt+HN33+JS5zdtnWW/LWOmfCiPN/TjSQ6Hsp67dJ5ftwMefy1rI/w84jkhmf218reUzyVyvR+qB7s4GvZh/CvxY1T3Fu9Z8OLwyKXyo/1GkNJHJG2gA1NWrR+fl+fsQuh2Y/Hrl1b1cdwZcZuNQfF+NXLQ6guv6tpAp7tG01e+TYi85gcfr/9pqhJaPy9jz4bemuz9asV9NFlY1omg/Wsjq+g0VNdPt/Erzu66zuKpinmLtVNxA7WEvfIgn7fzmHunvp1FEPcb6n6TEKGru06vqUQmPaidkZ53zpMndNqZ1epxMm35x2nMWHzV5hfXIsOw1AWqzzpbL83oRl7tarC0pVedHUNXnSp+d+Oy8t1ZYjP9B0nUS5KUciXRiWK0b3Us1ai+/Nu1+9g2Dz90/Zsa2WzsqLVSoMmftwCfUMqyrq4G00g3kLt9Dp60m31fJ10/JgVYn3P54pOOs1CtPA3ZZ8lquuhS3fusTnYFy572/pXoSIS7zvtG6hI/z0+JloY1mvZUQWlvannpSOv+gSvtKkMDlp1zz9om2BkVbkcW12xa40sGIre9t/V5AYBl73Zz5+4YoQGyV3iKdG9Szt7AlCUSU33mhZtJV1KNPeG9vnEcxAQiHZL0J927RCcumIzvGlluv5c0VyL3uvn5kcQ3hgqGKm/yv2iZ3eIWbaiUb3RksPeiU59whbtHo/He6FEC0sXzWSIZmt2eCCjT59MzXJLNYl+qcIlEu7sGy30RWs60cIVZDfpZ5Sm0cKJ6EQ9S/MkToSbqa25Zw6bJfrV+kpp+Pkc0WIDveVKtGLBDoP71hTgN9IqBu+qzpnSbjKK9f0mC2HavfEYjotmW8J2j+uprmUnO9GHm7MAO3qURtAodYP23cqq3XK20antv4geWUZ22jlLsOI0V0GD2tBLjOHzZpyuTNHpZaFo5R5N9IgD0+nmQOvDWRWuSoNwc9WDzn24GZTvlDEIXP3SadHeoeXRiRZjuiTn5Qk9oNL9bv2mJh6qoKcibXL8NsbyItBB99L0JQ2nRRfm2Bii+c9m4U7OzPIs93BCmd94+l4jjaWlVKchFFTqnmg+kuXlQ9FiTCm+LtrJWfm0K1tseyGTMD0RRZamsrEtYy91IWOMiXheM6bbSlSlU6pafmOK0rzAXcYWWdo1ZV3aVEm+WObVJ/PW55K2fw1ytEgns3zLzpVOJeK8MYUOiJSIBis5qm534+/yQqOeJuZavgqIOT3naMBf0xGT8OM3B6YGNPV/Ju/6FiGp3k84a1J1UWUV8OlT02R1p6ZtbnT/5K8PK2CvgktFy0ZUvZHNM3HktJs4WP068pvLcLfoGN9cvi1qCi6/blVDZbH8urWaaGcgk5mnHfv4SSYgbG2+IeAZa/dP0ZOVr1uW1be8OsgNkb+ub0QmvDtZsnjW08/+HTz3RzRXK/voOYCXka3Yq4q1a3boM1aWP9i52cadq3K77NgYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwP+LfwC/ei/wLgRmOAAAAABJRU5ErkJggg==",
+  "imageHeight": 180,
+  "imageWidth": 180
+}

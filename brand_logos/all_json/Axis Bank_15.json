@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Axis Bank",
+      "points": [
+        [
+          27.197278911564652,
+          135.71428571428572
+        ],
+        [
+          63.25170068027212,
+          166.32653061224488
+        ]
+      ],
+      "group_id": 16,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Axis Bank_15.png",
+  "imageData": "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",
+  "imageHeight": 300,
+  "imageWidth": 168
+}
